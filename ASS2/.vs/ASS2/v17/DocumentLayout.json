@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\report\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\report\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\report\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\report\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\report\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\report\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\account\\editprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\account\\editprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\staffs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\staffs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\staffs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\staffs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\interface\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\interface\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\staffs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\staffs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\staffs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\staffs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\staffs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\staffs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|c:\\users\\acer\\downloads\\su24\\prn221\\asgment2\\assignment2\\ass2\\ass2\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC8FE1-DB3B-42DC-9C23-7F17992D3D50}|ASS2\\ASS2.csproj|solutionrelative:ass2\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Index.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Report\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:26:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ASS2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\Order.cs",
+              "RelativeToolTip": "ASS2\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:22:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ASS2\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ASS2\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Report\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Details.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Report\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:10:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Report\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Details.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Report\\Details.cshtml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:10:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Report\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Report\\Index.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Report\\Index.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:31:06.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\interface\\IOrderRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:35:41.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Staffs\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Index.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Staffs\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:56:08.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:00.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditProfile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Account\\EditProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Account\\EditProfile.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Account\\EditProfile.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Account\\EditProfile.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwD4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:14:29.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Staffs\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Create.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Staffs\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:50:30.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "ASS2\\Models\\MyStoreContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\MyStoreContext.cs",
+              "RelativeToolTip": "ASS2\\Models\\MyStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:25:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:37:32.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:11:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Account\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Account\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Account\\EditProfile.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Account\\EditProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:14:28.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:36:29.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Staffs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Index.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Staffs\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:21:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\interface\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\interface\\IStaffRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\interface\\IStaffRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\interface\\IStaffRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:07:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Staffs\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Edit.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Staffs\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:27:26.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:20:45.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:21:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\StaffRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\StaffRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\StaffRepository.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:54:29.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Staffs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Create.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Staffs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:22:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Program.cs",
+              "RelativeDocumentMoniker": "ASS2\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Program.cs",
+              "RelativeToolTip": "ASS2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:53:13.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\appsettings.json",
+              "RelativeDocumentMoniker": "ASS2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\appsettings.json",
+              "RelativeToolTip": "ASS2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:01:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "ASS2\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Models\\Staff.cs",
+              "RelativeToolTip": "ASS2\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:06:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Login.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:38:18.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASS2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\appsettings.Development.json",
+              "RelativeToolTip": "ASS2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:02:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Staffs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Staffs\\Edit.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Staffs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:22:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwBQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:05:05.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:21:37.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:21:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:21:39.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ASS2\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:20:37.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\interface\\IProductRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:35:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "ASS2\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:22:54.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\ManagerRepository.cs",
+              "RelativeDocumentMoniker": "ASS2\\Repositories\\ManagerRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\Repositories\\ManagerRepository.cs",
+              "RelativeToolTip": "ASS2\\Repositories\\ManagerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:30.976Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

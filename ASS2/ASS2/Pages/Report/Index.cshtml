@@ -1,0 +1,39 @@
+﻿@page
+@model ASS2.Pages.ReportModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Report List</h1>
+
+
+
+<form method="get">
+    <input type="date" name="startdate" value="@Model.FilterDate?.ToString("yyyy-MM-dd")" /> to 
+    <input type="date" name="enddate" value="@Model.ToDate?.ToString("yyyy-MM-dd")" />
+    <input type="submit" value="Filter" />
+</form>
+    <table class="table table-striped table-bordered text-center align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Order ID</th>
+                <th>Order Date</th>
+                <th>Staff Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Order)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.OrderDate</td>
+                    <td></td>
+                    <td><a asp-page="/Report/Details" asp-route-id="@order.OrderId">Details</a> |</td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+</table>

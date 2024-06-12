@@ -1,0 +1,31 @@
+﻿@page
+@model ASS2.Pages.DetailsModel
+@{
+}
+
+<h1>Details</h1>
+<div>
+    <h4>Order Details</h4>
+    <hr />
+    <table class="table table-striped table-bordered text-center align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Product Name</th>
+                <th>Unit Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var orderDetail in Model.GetOrderDetail)
+            {
+                <tr>
+                    <td>@orderDetail.Product.ProductName</td>
+                    <td>@orderDetail.UnitPrice</td>
+                    <td>@orderDetail.Quantity</td>
+@*                     <td>@(orderDetail.UnitPrice * orderDetail.Quantity)</td>
+ *@                </tr>
+            }
+        </tbody>
+    </table>
+</div>

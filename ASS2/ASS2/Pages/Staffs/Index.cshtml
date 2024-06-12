@@ -1,0 +1,78 @@
+﻿@page
+@model ASS2.Pages.StaffModel
+@{
+    ViewData["Title"] = "Staff Management";
+}
+
+<h2>Staff List</h2>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <div class="alert alert-danger">@Model.Message</div>
+}
+
+<a asp-page="/Staffs/Create" class="btn btn-success mb-3">Create New Staff</a>
+
+<form method="post" asp-page-handler="Search">
+    <label for="SearchText">Search by Name:</label>
+    <input type="text" id="SearchText" name="SearchText" class="form-control d-inline-block w-auto" />
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+ <table class="table table-striped table-bordered text-center align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Staff ID</th>
+                <th>Name</th>
+                <th>Password</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var staff in Model.StaffList)
+            {
+                <tr>
+                    <td>@staff.StaffId</td>
+                    <td>@staff.Name</td>
+                    <td>@staff.Password</td>
+                    <td>
+                        <a asp-page="/Staffs/Edit" asp-route-staffId="@staff.StaffId" class="btn btn-warning btn-sm me-1">Edit</a>
+                        <form method="post" asp-page-handler="Delete" asp-route-staffId="@staff.StaffId" class="d-inline" onsubmit="return confirmDelete(this);">
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        function confirmDelete(form) {
+            return confirm("Are you sure you want to delete this staff?");
+        }
+    </script>
+}
+
+<style>
+    .table th,
+    .table td {
+        vertical-align: middle !important;
+    }
+
+    .btn {
+        margin-right: 5px;
+    }
+
+    .container {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .table {
+        margin-top: 20px;
+    }
+</style>

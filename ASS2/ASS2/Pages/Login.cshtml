@@ -1,0 +1,72 @@
+﻿@page
+@model ASS2.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+@{
+    Layout = "_Layout";
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Management </title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0">
+    <link rel="stylesheet" href="~/css/login.css">
+    <script src="~/js/site.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <span class="hamburger-btn material-symbols-rounded">menu</span>
+            <a href="#" class="logo">
+                <img src="~/images/logo.jpg" alt="logo">
+                <h2>Sales Management</h2>
+            </a>
+            <ul class="links">
+                <span class="close-btn material-symbols-rounded">close</span>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contact us</a></li>
+            </ul>
+            <button class="login-btn">LOG IN</button>
+        </nav>
+    </header>
+
+    <div class="blur-bg-overlay"></div>
+    <div class="form-popup">
+        <span class="close-btn material-symbols-rounded">close</span>
+        <div class="form-box login">
+            <div class="form-details">
+                <h2>Hello !</h2>
+                <p>Please log in using your personal information to stay connected with us.</p>
+            </div>
+            <div class="form-content">
+                <h2>LOGIN</h2>
+                <form method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="input-field">
+                        <input asp-for="Staff.Name" class="form-control" placeholder=" " />
+                        <label asp-for="Staff.Name"></label>
+                        <span asp-validation-for="Staff.Name" class="text-danger"></span>
+                    </div>
+                    <div class="input-field">
+                        <input asp-for="Staff.Password" class="form-control" placeholder=" " />
+                        <label asp-for="Staff.Password"></label>
+                        <span asp-validation-for="Staff.Password" class="text-danger"></span>
+                    </div>
+                    <button type="submit">Login</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

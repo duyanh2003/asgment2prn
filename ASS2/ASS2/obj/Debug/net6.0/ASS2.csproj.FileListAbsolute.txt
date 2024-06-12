@@ -1,0 +1,318 @@
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\appsettings.Development.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\appsettings.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\ASS2.staticwebassets.runtime.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\ASS2.exe
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\ASS2.deps.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\ASS2.runtimeconfig.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\ASS2.pdb
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Humanizer.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Text.Json.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.AssemblyReference.cache
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.GeneratedMSBuildEditorConfig.editorconfig
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfoInputs.cache
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfo.cs
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.CoreCompileInputs.cache
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.MvcApplicationPartsAssemblyInfo.cache
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cache
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cs
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.build.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.development.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.ASS2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.build.ASS2.props
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASS2.props
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASS2.props
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\scopedcss\bundle\ASS2.styles.css
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\scopedcss\projectbundle\ASS2.bundle.scp.css
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.CopyComplete
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\refint\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.pdb
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ASS2.genruntimeconfig.cache
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\obj\Debug\net6.0\ref\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\a Sum24\A_PRN221\New folder\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\appsettings.Development.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\appsettings.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.staticwebassets.runtime.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.exe
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.deps.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.runtimeconfig.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.pdb
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Humanizer.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Text.Json.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.AssemblyReference.cache
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.GeneratedMSBuildEditorConfig.editorconfig
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfoInputs.cache
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfo.cs
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.CoreCompileInputs.cache
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.MvcApplicationPartsAssemblyInfo.cache
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cache
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cs
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.sourcelink.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.build.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.development.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.ASS2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.build.ASS2.props
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASS2.props
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASS2.props
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\scopedcss\bundle\ASS2.styles.css
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\scopedcss\projectbundle\ASS2.bundle.scp.css
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.CopyComplete
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\refint\ASS2.dll
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.pdb
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.genruntimeconfig.cache
+D:\a Sum24\A_PRN221\New folder\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ref\ASS2.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\appsettings.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\ASS2.staticwebassets.runtime.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\ASS2.exe
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\ASS2.deps.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\ASS2.runtimeconfig.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\ASS2.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\ASS2.pdb
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.AssemblyReference.cache
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfoInputs.cache
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfo.cs
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.CoreCompileInputs.cache
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cache
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cs
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.ASS2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.build.ASS2.props
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASS2.props
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASS2.props
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\scopedcss\bundle\ASS2.styles.css
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\scopedcss\projectbundle\ASS2.bundle.scp.css
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.Up2Date
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\refint\ASS2.dll
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.pdb
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ASS2.genruntimeconfig.cache
+C:\Users\quany\Downloads\Compressed\Assignment2-main\Assignment2-main\ASS2\ASS2\obj\Debug\net6.0\ref\ASS2.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.staticwebassets.runtime.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.exe
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.deps.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.runtimeconfig.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\ASS2.pdb
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.AssemblyInfo.cs
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cache
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.RazorAssemblyInfo.cs
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.sourcelink.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.ASS2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.build.ASS2.props
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASS2.props
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASS2.props
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\scopedcss\bundle\ASS2.styles.css
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\scopedcss\projectbundle\ASS2.bundle.scp.css
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.csproj.Up2Date
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\refint\ASS2.dll
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.pdb
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ASS2.genruntimeconfig.cache
+C:\Users\Acer\Downloads\SU24\prn221\asgment2\Assignment2\ASS2\ASS2\obj\Debug\net6.0\ref\ASS2.dll

@@ -1,0 +1,48 @@
+﻿@page
+@model ASS2.Pages.EditProfileModel
+
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-warning text-white">
+            <h2 class="card-title">@ViewData["Title"]</h2>
+        </div>
+        <div class="card-body">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Staff.StaffId" class="form-label">Staff ID</label>
+                    <input asp-for="Staff.StaffId" class="form-control" placeholder="Staff ID" readonly />
+                    <span asp-validation-for="Staff.StaffId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Staff.Name" class="form-label"></label>
+                    <input asp-for="Staff.Name" class="form-control" placeholder="Enter name" />
+                    <span asp-validation-for="Staff.Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Staff.Password" class="form-label"></label>
+                    <input asp-for="Staff.Password" class="form-control" type="password" placeholder="Enter password" />
+                    <span asp-validation-for="Staff.Password" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl5+5hb7v4l5Dx4/LCAm1oVrtfdu5J6sYBB9PlBb6E" crossorigin="anonymous">
