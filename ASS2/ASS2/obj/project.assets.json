@@ -2456,11 +2456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\ASS2.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\asgment2prn\\ASS2\\ASS2\\ASS2.csproj",
       "projectName": "ASS2",
-      "projectPath": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\ASS2.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\asgment2prn\\ASS2\\ASS2\\ASS2.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Downloads\\SU24\\prn221\\asgment2\\Assignment2\\ASS2\\ASS2\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\asgment2prn\\ASS2\\ASS2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
